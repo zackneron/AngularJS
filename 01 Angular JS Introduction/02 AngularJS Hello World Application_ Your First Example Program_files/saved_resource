@@ -1,0 +1,38 @@
+
+var ftGUID_4229769="4609478E6DF7CA";
+var ftConfID_4229769="20188024";
+var ftParams_4229769="ftx=&fty=&ftadz=&ftscw=&ft_custom=&ftOBA=1&ft_ifb=1&ft_domain=www.guru99.com&ft_agentEnv=0&ft_referrer=https%3A%2F%2Fwww.guru99.com%2Fangularjs-first-program.html&cachebuster=168951.86413727538";
+var ftKeyword_4229769="";
+var ftCustom_4229769="";
+var ftSection_4229769="";
+var ftSegment_4229769="";
+var ftSegmentList_4229769=[];
+var ftRuleMatch_4229769="0";
+var ftTimestamp_4229769="1597416348";
+var ftGeoC2_4229769="za";
+var ftGeoState_4229769="wc";
+var ftGeoCity_4229769="matroosfontein";
+var ftISP_4229769="telkom sa ltd.";
+var ftSpeed_4229769="mobile";
+var ftDMA_4229769="-1";
+var ftLong_4229769="18.58";
+var ftLat_4229769="-33.94";
+var ftPostal_4229769="7490";
+var ftTimeZone_4229769="200";
+var ftMobileCarrier_4229769="telkom";
+var ftImp4229769 = {};
+ftImp4229769.privacy = "x";
+ftImp4229769.guidAge = "0";
+ftImp4229769.impID = "EA0CDA98-4670-9AAC-7CAD-F2F60F043E90";
+ftImp4229769.duid = "FT:4609478E6DF7CA";
+
+ftImp4229769.ft_tpplid = "";
+ftImp4229769.ft_c = {};
+ftImp4229769.gdpr = "";
+ftImp4229769.gdpr_consent = "";
+ftImp4229769.gdpr_pd = "";
+ftImp4229769.oob_consent = "";
+ftImp4229769.gdprStoredConsent = "";
+ftImp4229769.us_privacy = "";
+
+document.write('<scr'+'ipt src="https://cdn.flashtalking.com/xre/422/4229769/3025155/js/j-4229769-3025155.js" id="ftscript_m4229769" name="ftscript_m4229769"></scr'+'ipt>');
